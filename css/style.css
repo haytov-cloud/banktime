@@ -75,7 +75,7 @@ img {
 
 /* Header */
 .hero {
-    background: url('//pic/fish_carp_koi_132318_2560x1080.jpg') no-repeat center center/cover;
+    background: url('/fish_carp_koi_132318_2560x1080.jpg') no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: #fff;
